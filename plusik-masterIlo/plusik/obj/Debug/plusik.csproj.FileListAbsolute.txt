@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\plusik-master\plusik\bin\Debug\plusik.exe.config
+C:\Users\student\Desktop\plusik-master\plusik\bin\Debug\plusik.exe
+C:\Users\student\Desktop\plusik-master\plusik\bin\Debug\plusik.pdb
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.plusik.resources
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.Properties.Resources.resources
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.csproj.GenerateResource.cache
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.exe
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.pdb
+C:\Users\student\Desktop\plusik-master\plusik\obj\Debug\plusik.exe.config
